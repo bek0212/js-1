@@ -1,0 +1,5 @@
+var joy = alert('Joylashuvni olish')
+var ism = prompt('ismingizni kiriting')
+var fam = prompt('familiyangizni kiriting')
+var tel = prompt('ochestvangizni kiriting')
+ confirm(('Siz-')+ism+fam+tel)
